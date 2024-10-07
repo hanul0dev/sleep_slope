@@ -47,4 +47,4 @@ source myenv/bin/activate
 
 
 ## test video
-[![Video Label](http://img.youtube.com/vi/'V2voj8zEly8'/0.jpg)](https://youtu.be/'V2voj8zEly8')
+[![Video Label](http://img.youtube.com/vi/V2voj8zEly8/0.jpg)](https://youtu.be/V2voj8zEly8)
